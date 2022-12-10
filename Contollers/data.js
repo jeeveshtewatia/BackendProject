@@ -328,4 +328,4 @@ const data = (req, res) => {
     },
   ]);
 };
-module.exports.apicontroller = data;
+module.exports = data;
